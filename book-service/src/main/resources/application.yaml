@@ -1,1 +1,8 @@
+eureka:
+  instance:
+    appname: book-service
 
+spring:
+  jpa:
+    hibernate:
+      ddl-auto: update
